@@ -3,7 +3,7 @@
 
 
 
-The Leetcode easy difficulty:
+ Leetcode easy difficulty:
 
 You are given an array prices where prices[i] is the price of a given stock on the ith day.
 
