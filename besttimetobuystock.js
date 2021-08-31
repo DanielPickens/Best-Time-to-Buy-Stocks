@@ -1,3 +1,7 @@
+//Using the Sliding window approach
+//tc:O(n)
+
+
 var maxProfit = function(prices) {
      /* first try, not as efficient approach
     let m=0;
